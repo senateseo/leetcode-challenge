@@ -22,3 +22,6 @@ class Solution:
                     return False
         
         return True
+
+# TC: O(N)
+# SC: O(N)
