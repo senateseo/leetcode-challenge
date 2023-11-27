@@ -11,3 +11,4 @@ class Solution:
         return len(s[lastIdx])
 
 # TC: O(N)
+# SC: O(1)
