@@ -14,4 +14,5 @@ class Solution:
             gs.append(hsm[key])
         return gs
 
-#
+# TC : O(N)
+# SC : O(N)
