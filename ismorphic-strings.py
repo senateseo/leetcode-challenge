@@ -24,3 +24,5 @@ class Solution:
 
         # When Key is not found in Hashmap
         # - put key as s[i] and value as t[i]
+        # TC: O(N)
+        # SC: O(N)
